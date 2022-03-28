@@ -1,24 +1,22 @@
 {
   "name": "swagger-jsdoc-snippets",
   "main": "./lib/swagger-jsdoc-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Snippets for npm package Swagger JsDoc",
   "keywords": [
-      "swagger",
-      "openapi",
-      "jsdoc",
-      "javascript",
-      "typescript",
-      "swagger-jsdoc",
-      "openapi-jsdoc"
+    "swagger",
+    "openapi",
+    "jsdoc",
+    "javascript",
+    "typescript",
+    "swagger-jsdoc",
+    "openapi-jsdoc"
   ],
-  "activationCommands": {
-  },
+  "activationCommands": {},
   "repository": "https://github.com/rjousse18/swagger-jsdoc-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
