@@ -1,12 +1,18 @@
 {
   "name": "swagger-jsdoc-snippets",
   "main": "./lib/swagger-jsdoc-snippets",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Snippets for npm package Swagger JsDoc",
   "keywords": [
+      "swagger",
+      "openapi",
+      "jsdoc",
+      "javascript",
+      "typescript",
+      "swagger-jsdoc",
+      "openapi-jsdoc"
   ],
   "activationCommands": {
-    "atom-workspace": "swagger-jsdoc-snippets:toggle"
   },
   "repository": "https://github.com/atom/swagger-jsdoc-snippets",
   "license": "MIT",
