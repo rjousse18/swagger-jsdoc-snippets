@@ -1,0 +1,39 @@
+'.source.ts':
+    'OpenApi JsDoc Route':
+        'prefix': "oajsdoc"
+        'body': """
+            /**
+             * @openapi
+             * /${1: Route}:
+             *   ${2: RouteType}:
+             *     summary: ${3: Summary}
+             *     description: ${4: Description}
+             *     tags: []
+             *     responses:
+             *       200:
+             *         description: {5: Response 200 Description}
+             *         content: ${6: Response 200 Content}
+             *       500:
+             *         description: ${7: Response 500 Description}
+             *         content: ${8: Response 500 Content}
+             */
+        """
+    'Swagger JsDoc Route':
+        'prefix': "swjsdoc"
+        'body': """
+            /**
+             * @swagger
+             * /${1: Route}:
+             *   ${2: RouteType}:
+             *     summary: ${3: Summary}
+             *     description: ${4: Description}
+             *     tags: []
+             *     responses:
+             *       200:
+             *         description: ${5: Response 200 Description}
+             *         content: ${6: Response 200 Content}
+             *       500:
+             *         description: ${7: Response 500 Description}
+             *         content: ${8: Response 500 Content}
+             */
+        """
