@@ -14,7 +14,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/swagger-jsdoc-snippets",
+  "repository": "https://github.com/rjousse18/swagger-jsdoc-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
