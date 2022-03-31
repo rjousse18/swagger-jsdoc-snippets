@@ -2,4 +2,12 @@
 
 Snippets for swagger-jsdoc
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Snippets package to use [Swagger-JsDoc](https://www.npmjs.com/package/swagger-autogen)
+
+For now, support :
+* @openapi routes with snippets oajsdoc
+* @swagger routes with snippets swjsdoc
+
+Available on :
+* javascript
+* typescript
